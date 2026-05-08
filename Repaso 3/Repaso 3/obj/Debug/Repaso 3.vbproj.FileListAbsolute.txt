@@ -1,0 +1,11 @@
+C:\Saúl Chávez 24815\Repaso 3\Repaso 3\bin\Debug\Repaso 3.exe.config
+C:\Saúl Chávez 24815\Repaso 3\Repaso 3\bin\Debug\Repaso 3.exe
+C:\Saúl Chávez 24815\Repaso 3\Repaso 3\bin\Debug\Repaso 3.pdb
+C:\Saúl Chávez 24815\Repaso 3\Repaso 3\bin\Debug\Repaso 3.xml
+C:\Saúl Chávez 24815\Repaso 3\Repaso 3\obj\Debug\Repaso_3.Form1.resources
+C:\Saúl Chávez 24815\Repaso 3\Repaso 3\obj\Debug\Repaso_3.Resources.resources
+C:\Saúl Chávez 24815\Repaso 3\Repaso 3\obj\Debug\Repaso 3.vbproj.GenerateResource.cache
+C:\Saúl Chávez 24815\Repaso 3\Repaso 3\obj\Debug\Repaso 3.vbproj.CoreCompileInputs.cache
+C:\Saúl Chávez 24815\Repaso 3\Repaso 3\obj\Debug\Repaso 3.exe
+C:\Saúl Chávez 24815\Repaso 3\Repaso 3\obj\Debug\Repaso 3.xml
+C:\Saúl Chávez 24815\Repaso 3\Repaso 3\obj\Debug\Repaso 3.pdb
