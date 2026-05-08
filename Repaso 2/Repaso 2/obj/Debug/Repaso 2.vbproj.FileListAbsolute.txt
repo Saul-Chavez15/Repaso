@@ -1,0 +1,12 @@
+C:\Saúl Chávez 24815\Repaso 2\Repaso 2\obj\Debug\Repaso 2.vbprojAssemblyReference.cache
+C:\Saúl Chávez 24815\Repaso 2\Repaso 2\obj\Debug\Repaso_2.Form1.resources
+C:\Saúl Chávez 24815\Repaso 2\Repaso 2\obj\Debug\Repaso_2.Resources.resources
+C:\Saúl Chávez 24815\Repaso 2\Repaso 2\obj\Debug\Repaso 2.vbproj.GenerateResource.cache
+C:\Saúl Chávez 24815\Repaso 2\Repaso 2\obj\Debug\Repaso 2.vbproj.CoreCompileInputs.cache
+C:\Saúl Chávez 24815\Repaso 2\Repaso 2\bin\Debug\Repaso 2.exe.config
+C:\Saúl Chávez 24815\Repaso 2\Repaso 2\bin\Debug\Repaso 2.exe
+C:\Saúl Chávez 24815\Repaso 2\Repaso 2\bin\Debug\Repaso 2.pdb
+C:\Saúl Chávez 24815\Repaso 2\Repaso 2\bin\Debug\Repaso 2.xml
+C:\Saúl Chávez 24815\Repaso 2\Repaso 2\obj\Debug\Repaso 2.exe
+C:\Saúl Chávez 24815\Repaso 2\Repaso 2\obj\Debug\Repaso 2.xml
+C:\Saúl Chávez 24815\Repaso 2\Repaso 2\obj\Debug\Repaso 2.pdb
